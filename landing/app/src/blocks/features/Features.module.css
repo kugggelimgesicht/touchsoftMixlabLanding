@@ -1,0 +1,25 @@
+.featuresContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: left;
+  padding-top: 58px;
+  height: 719px;
+}
+.headline {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  width: 570px;
+  margin-left: 150px;
+}
+.features {
+  width: 570px;
+  height: 625px;
+}
+.headline h2 {
+  width: 89%;
+  font-weight: normal;
+  font-size: 44px;
+}

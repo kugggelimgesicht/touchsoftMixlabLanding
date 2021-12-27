@@ -1,0 +1,31 @@
+.main {
+  background-color: #fef7e5;
+  background-image: url("../../assets/leftMain.svg"),
+    url("../../assets/rabbit.svg"), url("../../assets/rightMain.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-position: 0 50%, 60% 100%, 100% 50%;
+  height: 651px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 102px;
+}
+.headline {
+  width: 39.23vw;
+}
+.headline h1 {
+  font-weight: normal;
+  font-size: 55px;
+}
+.headline p {
+  font-size: 20px;
+  width: 30vw;
+  margin: auto;
+}
+
+.button button {
+  width: 156px;
+  height: 48px;
+  border-radius: 24px;
+  margin: 23px;
+}

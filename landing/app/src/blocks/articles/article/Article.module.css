@@ -1,0 +1,25 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  width: 384px;
+  height: 485px;
+  margin: 15px;
+  background-color: #fff;
+}
+.text h3 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 32px;
+  color: black;
+}
+.text {
+  text-align: left;
+  padding-left: 36px;
+  height: 93px;
+}
+.text p {
+  font-size: 11px;
+  line-height: 23px;
+  height: 46px;
+}

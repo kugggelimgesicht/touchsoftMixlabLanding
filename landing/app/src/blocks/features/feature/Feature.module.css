@@ -1,0 +1,17 @@
+.feature {
+  width: 465px;
+}
+.feature h3 {
+  font-weight: 700;
+  color: #6f1eaa;
+  font-size: 24px;
+}
+.feature::after {
+  content: "";
+  display: inline-block;
+  height: 0.5em;
+  vertical-align: bottom;
+  width: 100%;
+  margin-right: -100%;
+  border-top: 1px solid #f7a500;
+}

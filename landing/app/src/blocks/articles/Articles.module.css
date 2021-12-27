@@ -1,0 +1,30 @@
+.articlesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 902px;
+  background-color: #faf9f6;
+  background-image: url("../../assets/atriclesleft.png"),
+    url("../../assets/articlesright.png");
+  background-repeat: no-repeat, no-repeat;
+  background-position: 0 50%, 100% 50%;
+}
+.articles {
+  display: flex;
+  justify-content: center;
+}
+
+.headline p {
+  width: 455px;
+
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 23px;
+}
+.button button {
+  width: 160px;
+  height: 48px;
+  border-radius: 24px;
+  margin-top: 20px;
+}

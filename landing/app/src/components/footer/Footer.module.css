@@ -1,0 +1,44 @@
+.footer{
+   background-color: #48156d;
+}
+.footerContainer {
+ 
+  margin-left: 343px;
+  height: 430px;
+  text-align: left;
+  display: flex;
+  justify-content: space-around;
+  color: #fff;
+  flex-wrap: wrap;
+}
+.footerContainer img {
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+.social {
+  width: 200px;
+}
+.footerContainer li,
+.footerContainer p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 18px;
+}
+.footerContainer h4 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: #c282f0;
+}
+.terms {
+  width: 60%;
+  display: flex;
+  margin-left: -330px;
+}
+.terms p{
+  margin-right: 18px;
+}

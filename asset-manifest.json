@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/touchsoftMixlabLanding/static/css/main.947fb319.css",
+    "main.js": "/touchsoftMixlabLanding/static/js/main.81f0e5bf.js",
+    "static/js/787.b95d21ec.chunk.js": "/touchsoftMixlabLanding/static/js/787.b95d21ec.chunk.js",
+    "static/media/womanNdog.png": "/touchsoftMixlabLanding/static/media/womanNdog.297d96662ebf3a41596a.png",
+    "static/media/rabbit.svg": "/touchsoftMixlabLanding/static/media/rabbit.10fe51ef94dba83277a4.svg",
+    "static/media/rightMain.svg": "/touchsoftMixlabLanding/static/media/rightMain.51f8b68f9218f16a8bf9.svg",
+    "static/media/leftMain.svg": "/touchsoftMixlabLanding/static/media/leftMain.41b580c73484659cee46.svg",
+    "static/media/science.png": "/touchsoftMixlabLanding/static/media/science.36dad1e261b637383477.png",
+    "static/media/client1.png": "/touchsoftMixlabLanding/static/media/client1.e2154dcfb3847fc38005.png",
+    "static/media/featuresDog.png": "/touchsoftMixlabLanding/static/media/featuresDog.e2736581d20bb41b09d7.png",
+    "static/media/HIWdog.png": "/touchsoftMixlabLanding/static/media/HIWdog.a59e0526b15174d79c28.png",
+    "static/media/blackdog.png": "/touchsoftMixlabLanding/static/media/blackdog.c66292d798146aa48450.png",
+    "static/media/HIWrabbit.png": "/touchsoftMixlabLanding/static/media/HIWrabbit.6620a2e923fe440b080c.png",
+    "static/media/hearts.png": "/touchsoftMixlabLanding/static/media/hearts.acc12c2d4644d6820db8.png",
+    "static/media/parrot.png": "/touchsoftMixlabLanding/static/media/parrot.17136083b28adacf4b08.png",
+    "static/media/atriclesleft.png": "/touchsoftMixlabLanding/static/media/atriclesleft.5e8436de311acded4cd5.png",
+    "static/media/articlesright.png": "/touchsoftMixlabLanding/static/media/articlesright.5149999558f277a12097.png",
+    "index.html": "/touchsoftMixlabLanding/index.html",
+    "main.947fb319.css.map": "/touchsoftMixlabLanding/static/css/main.947fb319.css.map",
+    "main.81f0e5bf.js.map": "/touchsoftMixlabLanding/static/js/main.81f0e5bf.js.map",
+    "787.b95d21ec.chunk.js.map": "/touchsoftMixlabLanding/static/js/787.b95d21ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947fb319.css",
+    "static/js/main.81f0e5bf.js"
+  ]
+}
